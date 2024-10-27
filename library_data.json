@@ -1,0 +1,46 @@
+{
+    "materials": [
+        {
+            "name": "PETG",
+            "E": 2100000000.0
+        },
+        {
+            "name": "PA12 Carbon Fiber Nylon",
+            "E": 12400000000.0
+        },
+        {
+            "name": "Polycarbonate",
+            "E": 2000000000.0
+        },
+        {
+            "name": "PA6 Glass Fiber Nylon",
+            "E": 5160000000.0
+        },
+        {
+            "name": "Propylene",
+            "E": 1690000000.0
+        },
+        {
+            "name": "ABS",
+            "E": 2040000000.0
+        },
+        {
+            "name": "UHMW Polyethylene",
+            "E": 760000000.0
+        }
+    ],
+    "beams": [
+        {
+            "name": "Fifth Percentile Thin",
+            "length": 0.226,
+            "width": 0.085,
+            "thickness": 0.02
+        }
+    ],
+    "loads": [
+        {
+            "name": "Fifth Percentile 400lb",
+            "w": 7871.64
+        }
+    ]
+}
